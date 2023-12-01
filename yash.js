@@ -1,6 +1,6 @@
 /* <script language="javascript"> */
     var password;
-    var pass1="12345";
+    var pass1="yashraj";
     password=prompt('Enter password To view page',' ');
     if (password==pass1)
     alert('correct password, click ok to enter.');
